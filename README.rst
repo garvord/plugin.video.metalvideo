@@ -7,10 +7,10 @@
 .. image:: https://api.codacy.com/project/badge/Grade/b840d9b5a9a341d18c2c6161eb653954
     :target: https://www.codacy.com/app/willforde/plugin.video.metalvideo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=willforde/plugin.video.metalvideo&amp;utm_campaign=Badge_Grade
 
-Metalvideo
-==========
 .. image:: resources/icon.png
 
+Metalvideo
+==========
 This is a kodi video add-on for Heavy Metal Music Videos.
 
 A Place for all your heavy metal music videos, With loads of categorys.
